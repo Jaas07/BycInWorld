@@ -23,7 +23,7 @@
 <br>
 <p>"Montar en bicicleta no solo te mantiene en forma, sino que también ayudas reducir la contaminación
 de nuestro planeta" </p>
-<center><img alt="" src="images/mountain.jpg" height="400"></center>
+<center><img alt="" src="images/mountain.jpg" height="450"></center>
 
 
 </section>

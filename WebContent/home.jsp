@@ -26,6 +26,13 @@
     <footer>
         <a href="https://github.com/Jaas07?tab=projects/"><h3>Autor: Johan Albiño(github)</h3></a>
         <h4>Copyright-2024</h4>
+          <p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:80px;height:25px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="¡CSS Válido!" />
+    </a>
+	</p>  
     </footer>
 </body>
 </html>
